@@ -1,2 +1,2 @@
 # ofl
-only for learn
+only for learning
